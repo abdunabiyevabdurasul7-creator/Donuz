@@ -9,7 +9,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, KeyboardButton, ReplyKeyboardMarkup
 
 # === BAZAVIY SOZLAMALAR ===
-BOT_TOKEN = "8659066280:AAG7hXRKMV1KGrldB1fFAgysHACo9_3zuzM"
+BOT_TOKEN = "8929604110:AAGElQUFEC8Tz6_TO6i7-m1eKEotUEP74tk"
 ADMIN_ID = 5692925792
 KARTA_RAQAM = "9860 6067 6078 9275 AAbdurasul(HUMO)"
 
